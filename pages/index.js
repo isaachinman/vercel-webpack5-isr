@@ -15,7 +15,7 @@ export const getStaticProps = async () => {
 
   let translations = undefined
   
-  console.log('webpack 5 set to `true`')
+  console.log('webpack 5 currently set to `true`')
 
   console.log('Translation file exists in fs: ', translationFileExistsInFs)
 
