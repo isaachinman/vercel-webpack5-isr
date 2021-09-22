@@ -1,3 +1,5 @@
 module.exports = {
-  webpack5: false,
+  experimental: {
+    outputFileTracing: true
+  }
 }
